@@ -1,0 +1,11 @@
+C:\Users\Free\source\repos\SqlRehber2\SqlRehber2\bin\Debug\SqlRehber2.exe.config
+C:\Users\Free\source\repos\SqlRehber2\SqlRehber2\bin\Debug\SqlRehber2.exe
+C:\Users\Free\source\repos\SqlRehber2\SqlRehber2\bin\Debug\SqlRehber2.pdb
+C:\Users\Free\source\repos\SqlRehber2\SqlRehber2\obj\Debug\SqlRehber2.csproj.AssemblyReference.cache
+C:\Users\Free\source\repos\SqlRehber2\SqlRehber2\obj\Debug\SqlRehber2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Free\source\repos\SqlRehber2\SqlRehber2\obj\Debug\SqlRehber2.Form1.resources
+C:\Users\Free\source\repos\SqlRehber2\SqlRehber2\obj\Debug\SqlRehber2.Properties.Resources.resources
+C:\Users\Free\source\repos\SqlRehber2\SqlRehber2\obj\Debug\SqlRehber2.csproj.GenerateResource.cache
+C:\Users\Free\source\repos\SqlRehber2\SqlRehber2\obj\Debug\SqlRehber2.csproj.CoreCompileInputs.cache
+C:\Users\Free\source\repos\SqlRehber2\SqlRehber2\obj\Debug\SqlRehber2.exe
+C:\Users\Free\source\repos\SqlRehber2\SqlRehber2\obj\Debug\SqlRehber2.pdb
